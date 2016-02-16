@@ -124,12 +124,12 @@
         "source": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\Android\\AndroidForGit\\gitConn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
